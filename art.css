@@ -1,0 +1,29 @@
+
+h1{
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:burlywood;
+    font-size: 75px;
+}
+.brushes, 
+h3{
+    background-color:cyan;
+    font-size: 40px;
+}
+h4{
+    font-weight: bold;
+}
+p {
+    font-family:sans-serif;
+}
+.frames,
+h3{
+    background-color:greenyellow;
+}
+.paint,
+h3{
+    background-color:mediumslateblue;
+}
+a{
+    color:navy;
+}
